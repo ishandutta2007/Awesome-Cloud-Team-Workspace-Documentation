@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation" alt="License" /></a>
@@ -58,77 +58,77 @@ The global team collaboration and cloud workspace market is estimated at **$45B 
 
 ## 💻 Open-Source GitHub Projects
 
-Sorted descending by GitHub star count ⭐:
+Sorted descending by GitHub Stars_Count ⭐:
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) 📱  
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) 📱  
   *Open-source Notion alternative built with Flutter and Rust (AGPL-3.0).*  
   Docs, relational databases (grid, kanban, calendar), and notes in a local-first architecture with self-hosted cloud sync and AI integrations.
 
-- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) 🎨  
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) 🎨  
   *Next-generation all-in-one workspace combining docs, whiteboard canvas, and database tables (MIT).*  
   True multimodal canvas that seamlessly transitions between structured docs and infinite canvas whiteboard for ideation and system design.
 
-- **[Memos](https://github.com/usememos/memos)** [![GitHub stars](https://img.shields.io/github/stars/usememos/memos?style=social&color=white)](https://github.com/usememos/memos/stargazers) 📝  
+- **[Memos](https://github.com/usememos/memos)** [![GitHub_Stars](https://img.shields.io/github/stars/usememos/memos?style=social&color=white)](https://github.com/usememos/memos/stargazers) 📝  
   *Privacy-first, lightweight knowledge base and note-taking service (MIT).*  
   Single-binary Go and SQLite deployment offering blazing-fast Markdown notes, tag organization, REST API, and effortless self-hosting.
 
-- **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) ✈️  
+- **[Plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) ✈️  
   *Open-source project management and documentation workspace (AGPL-3.0).*  
   Confluence and Jira replacement with integrated Pages (rich collaborative markdown documentation), issue tracking, cycles, and roadmaps.
 
-- **[Joplin](https://github.com/laurent22/joplin)** [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers) 📓  
+- **[Joplin](https://github.com/laurent22/joplin)** [![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers) 📓  
   *Secure, end-to-end encrypted note taking and team collaboration app (AGPL-3.0).*  
   Full markdown support, multimedia attachments, offline-first operation, and sync via Nextcloud, S3, WebDAV, or Joplin Server.
 
-- **[Logseq](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers) 🧠  
+- **[Logseq](https://github.com/logseq/logseq)** [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers) 🧠  
   *Local-first, privacy-focused outliner and bi-directional knowledge base (AGPL-3.0).*  
   Graph-based note-taking built on plain-text Markdown and Org-mode files, featuring PDF annotations, Flashcards, and queries.
 
-- **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) 🌐  
+- **[Outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) 🌐  
   *Fast, polished collaborative team wiki and knowledge base (BSL 1.1).*  
   Delivers a Notion-like UI experience, real-time multiplayer editing, Slack integrations, rich API, and enterprise-grade search. Requires OIDC/SSO.
 
-- **[Trilium Notes](https://github.com/TriliumNext/Trilium)** [![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers) 🌲  
+- **[Trilium Notes](https://github.com/TriliumNext/Trilium)** [![GitHub_Stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers) 🌲  
   *Hierarchical note taking and deep personal knowledge graph platform (AGPL-3.0).*  
   Tree-structured note hierarchy with note cloning, encryption, code syntax highlighting, mind maps, and JavaScript scripting extensions.
 
-- **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers) 📚  
+- **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers) 📚  
   *Modern, extensible open-source wiki engine for Node.js (AGPL-3.0).*  
   Multi-editor engines (Markdown, WYSIWYG, Code), bi-directional Git storage sync, multiple database support, and public/private doc portals.
 
-- **[Docmost](https://github.com/docmost/docmost)** [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers) 🚀  
+- **[Docmost](https://github.com/docmost/docmost)** [![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers) 🚀  
   *Collaborative open-source wiki and documentation software (AGPL-3.0 core).*  
   Premier open-source Confluence alternative with real-time multi-user editing, spaces, nested pages, built-in email auth, and native Excalidraw/Mermaid diagrams.
 
-- **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers) 📚  
+- **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers) 📚  
   *Simple, opinionated self-hosted documentation platform (MIT).*  
   Organized intuitively by Shelves → Books → Chapters → Pages. Features built-in auth, LDAP/SAML, Diagrams.net integration, and minimal DevOps footprint.
 
-- **[Foam](https://github.com/foambubble/foam)** [![GitHub stars](https://img.shields.io/github/stars/foambubble/foam?style=social&color=white)](https://github.com/foambubble/foam/stargazers) 🫧  
+- **[Foam](https://github.com/foambubble/foam)** [![GitHub_Stars](https://img.shields.io/github/stars/foambubble/foam?style=social&color=white)](https://github.com/foambubble/foam/stargazers) 🫧  
   *Personal knowledge management and workspace system built on VS Code and GitHub (MIT).*  
   Transforms Visual Studio Code into a bi-directional networked thought environment using Markdown files and Git version control.
 
-- **[CodiMD](https://github.com/hackmdio/codimd)** [![GitHub stars](https://img.shields.io/github/stars/hackmdio/codimd?style=social&color=white)](https://github.com/hackmdio/codimd/stargazers) 👥  
+- **[CodiMD](https://github.com/hackmdio/codimd)** [![GitHub_Stars](https://img.shields.io/github/stars/hackmdio/codimd?style=social&color=white)](https://github.com/hackmdio/codimd/stargazers) 👥  
   *Real-time collaborative Markdown knowledge sharing platform (AGPL-3.0).*  
   The open-source core of HackMD, enabling synchronous team editing on Markdown documents with mathjax, graphs, and presentation mode.
 
-- **[HedgeDoc](https://github.com/hedgedoc/hedgedoc)** [![GitHub stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social&color=white)](https://github.com/hedgedoc/hedgedoc/stargazers) 🦔  
+- **[HedgeDoc](https://github.com/hedgedoc/hedgedoc)** [![GitHub_Stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social&color=white)](https://github.com/hedgedoc/hedgedoc/stargazers) 🦔  
   *Community-driven collaborative Markdown notes platform (AGPL-3.0).*  
   Privacy-friendly, self-hosted web-based real-time Markdown editor with live preview, permissions, and flexible authentication plugins.
 
-- **[SilverBullet](https://github.com/silverbulletmd/silverbullet)** [![GitHub stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers) ⚡  
+- **[SilverBullet](https://github.com/silverbulletmd/silverbullet)** [![GitHub_Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers) ⚡  
   *Extensible open-source personal knowledge management system (MIT).*  
   Clean web-based Markdown editor with live query syntax, custom page widgets, edge-first synchronization, and full offline support.
 
-- **[DokuWiki](https://github.com/dokuwiki/dokuwiki)** [![GitHub stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=social&color=white)](https://github.com/dokuwiki/dokuwiki/stargazers) 📂  
+- **[DokuWiki](https://github.com/dokuwiki/dokuwiki)** [![GitHub_Stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=social&color=white)](https://github.com/dokuwiki/dokuwiki/stargazers) 📂  
   *Standards-compliant, flat-file documentation and wiki engine (GPL-2.0).*  
   Requires zero database, operating entirely on plain text files. Features built-in ACLs, revisions, and hundreds of community plugins.
 
-- **[Documize](https://github.com/documize/community)** [![GitHub stars](https://img.shields.io/github/stars/documize/community?style=social&color=white)](https://github.com/documize/community/stargazers) 💼  
+- **[Documize](https://github.com/documize/community)** [![GitHub_Stars](https://img.shields.io/github/stars/documize/community?style=social&color=white)](https://github.com/documize/community/stargazers) 💼  
   *Modern Confluence alternative for organizing technical and business documentation (AGPL-3.0).*  
   Organizes knowledge into spaces, categories, and document snippets with enterprise permissions and change approvals.
 
-- **[XWiki](https://github.com/xwiki/xwiki-platform)** [![GitHub stars](https://img.shields.io/github/stars/xwiki/xwiki-platform?style=social&color=white)](https://github.com/xwiki/xwiki-platform/stargazers) 🏛️  
+- **[XWiki](https://github.com/xwiki/xwiki-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/xwiki/xwiki-platform?style=social&color=white)](https://github.com/xwiki/xwiki-platform/stargazers) 🏛️  
   *Advanced enterprise-grade open-source wiki and application runtime (LGPL-2.1).*  
   Extensible Java-based collaboration platform with complete scriptability, office document imports, fine-grained ACLs, and enterprise scale.
 
@@ -149,8 +149,8 @@ Sorted descending by GitHub star count ⭐:
 
 1. Fork this repository 🍴.
 2. Add or update entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Cloud-Team-Workspace-Documentation/README.md).
-3. Ensure open-source projects include official repository links, open-source license, and star badges formatted as:
-   `[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
+3. Ensure open-source projects include official repository links, open-source license, and Stars_Badges formatted as:
+   `[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
 4. For SaaS tools, provide accurate pricing columns, specific starting tier numbers, and explicit free plan or free trial duration details.
 5. Submit a Pull Request with a brief summary of additions or updates ✨.
 
@@ -178,3 +178,12 @@ If you find this repository helpful, please consider supporting the project:
 
 - This list is community-curated for informational and comparative purposes.
 - Team workspaces and enterprise knowledge bases often store critical intellectual property and operational credentials. Always evaluate security policies, backup models, SSO requirements, and regulatory compliance (GDPR, SOC2, HIPAA) prior to deployment 🔒.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Team-Workspace-Documentation&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Team-Workspace-Documentation_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Team-Workspace-Documentation_growth.svg">
+  </picture>
+</a>
